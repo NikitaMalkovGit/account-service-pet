@@ -1,6 +1,8 @@
 # account-service-pet
 
 
+## Основные этапы работы над проектом:
+1. Service structure.
 
 ### Итоговая ролевая модель: 
 |                           | Anonymous | User | Accountant | Administrator | Auditor |
