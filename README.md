@@ -1,4 +1,4 @@
-# account-service-pet
+# Account service
 
 ## Описание проекта:  
   Релаизация финального проекта из специализации "Spring Security for Backend Developers" на учебнной платформе JetBrains.   
